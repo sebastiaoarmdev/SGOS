@@ -8,9 +8,9 @@ Este projeto foi desenvolvido como parte de uma prova técnica para a vaga de De
 
 O projeto SGOS foi construído com as seguintes tecnologias:
 
-* **Linguagem/IDE:** Delphi / RAD Studio Tokyo 3 (10.2.3).
+* **Linguagem/IDE:** Delphi 12.1 Athens Community Edition.
 * **Banco de Dados:** Firebird 4.0.6.
-* **Componente de Acesso:** FireDAC (driver de acesso nativo e preferencial para o Firebird).
+* **Componente de Acesso:** FireDAC.
 * **Componente de Relatório:** FastReport.
 
 ---
@@ -52,7 +52,7 @@ Siga os passos abaixo para configurar e rodar a aplicação:
 
 ### **5. Limitações Conhecidas**
 
-* _A listar, se houver._
+_A listar, se houver..._
 
 ---
 
