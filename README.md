@@ -28,7 +28,7 @@ Siga os passos abaixo para configurar e rodar a aplicação:
     * A string de conexão deve apontar para o local do seu banco de dados (.fdb). Exemplo de string: `DriverID=FB;Database=C:\caminho\para\seu\banco.fdb;User_Name=SYSDBA;Password=masterkey;`
 
 3.  **Compilação e Execução:**
-    * Abra o projeto `SGOS.dpr` no RAD Studio.
+    * Abra o projeto `SGOS.dpr` no Delphi.
     * Compile e execute a aplicação (ou utilize o arquivo `SGOS.exe` na pasta `bin`).
 
 ---
@@ -52,7 +52,7 @@ Siga os passos abaixo para configurar e rodar a aplicação:
 
 ### **5. Limitações Conhecidas**
 
-_A listar, se houver..._
+_(A listar, se houver.)_
 
 ---
 
