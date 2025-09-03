@@ -61,3 +61,9 @@ _(A listar, se houver.)_
 O esqueleto do código e a estrutura do projeto foram gerados com o auxílio de IA para otimizar o tempo de desenvolvimento. Todo o código foi revisado, adaptado e compreendido antes da entrega.
 
 ---
+
+### **7. Recursos**
+
+Imagens e ícone usados: pacote [Pixel Perfect Lineal Color](https://www.flaticon.com/packs/basic-ui-1).
+
+---
